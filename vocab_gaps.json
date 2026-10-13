@@ -1,0 +1,15 @@
+{
+  "system_framework": "lab-bow-v1 Cross-Modal Evaluator",
+  "identified_vocabulary_gaps": [
+    {
+      "local_term": "kiondo",
+      "encoder_behavior": "Token splits or flags zero intersection weight across standard CLIP/Transformer vocabularies.",
+      "mitigation_applied": "Sidecar visual tags explicitly injected to ground systemic regional asset evaluation fields."
+    },
+    {
+      "local_term": "maasai beads",
+      "encoder_behavior": "Evaluates generically as multi-colored decorative art, missing the specific cultural trade classification markers.",
+      "mitigation_applied": "Enforced structured tag mappings used to bridge cross-modal understanding."
+    }
+  ]
+}
