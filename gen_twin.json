@@ -1,0 +1,11 @@
+{
+  "generation_tool_twin": "OpenAI DALL-E 3 API Engine / Stable Diffusion OSS Twin",
+  "prompt_source_file": "generation_prompt.txt",
+  "prompt_content_hash": "e2c34bb67a4216b3bb88bb2569ef504b20164c92",
+  "provenance_markers": [
+    "not_a_photo_of_the_sku",
+    "synthetic_still_life_representation_only",
+    "labeled_outputs_boundary"
+  ],
+  "output_destination": "outputs/synthetic_still_life.jpg"
+}
