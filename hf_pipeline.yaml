@@ -1,0 +1,7 @@
+pipeline_configuration:
+  task: "zero-shot-image-classification-cross-modal"
+  model: "sokonihub/multimodal-text-image-bow-metric"
+  revision: "a4f1082c9e7b23838491cdae021a37c95e6f3322"
+  device: "cpu"
+  runtime_fallback_active: true
+  framework: "lab-bow-v1-sidecar-proxy"
