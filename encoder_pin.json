@@ -1,0 +1,7 @@
+{
+  "encoder_model_architecture": "lab-bow-v1",
+  "framework_fallback": "sidecar-tag-jaccard-intersection-matrix",
+  "hub_identity": "sokonihub/multimodal-text-image-bow-metric",
+  "revision_hash": "a4f1082c9e7b23838491cdae021a37c95e6f3322",
+  "comment": "Pretrained multimodal proxy mapping token overlaps against sidecar visual markers for deterministic verification."
+}
