@@ -1,0 +1,28 @@
+{
+  "catalog": [
+    {
+      "sku": "KND-01",
+      "title": "Authentic Handcrafted Sisal Kiondo Bag",
+      "description": "Traditional Kenyan handwoven sisal basket bag with durable genuine leather shoulder straps.",
+      "image_path": "gold_images/knd01_sisal.jpg",
+      "sidecar_tags": ["handwoven", "sisal", "basket", "leather straps", "brown", "tan"],
+      "voice_transcript": "This is a premium hand-braided kiondo bag direct from Machakos weavers, using original plant fibers."
+    },
+    {
+      "sku": "NK-99",
+      "title": "Premium Nike Air Max Sports Shoes",
+      "description": "Athletic running sneaker featuring high-impact air cushions and breathable fabric mesh outer lining.",
+      "image_path": "gold_images/nk99_nike.jpg",
+      "sidecar_tags": ["handwoven", "sisal", "basket", "leather straps", "brown", "tan"],
+      "voice_transcript": "Check out this authentic custom athletic shoe, highly responsive running footwear design."
+    },
+    {
+      "sku": "SH-03",
+      "title": "Traditional Beaded Maasai Leather Sandals",
+      "description": "Handcrafted open-toe summer footwear lined with vibrant multicolored fine glass beads.",
+      "image_path": "gold_images/sh03_sandals.jpg",
+      "sidecar_tags": ["beaded", "maasai", "sandals", "footwear", "leather", "multicolor"],
+      "voice_transcript": "Genuine cowhide sandals featuring high-density colorful geometric cross patterns."
+    }
+  ]
+}
